@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-stormpath": "^4.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-mdl": "^1.11.0",
@@ -23,5 +26,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birken92/my-portfolio-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birken92/my-portfolio-app/issues"
+  },
+  "homepage": "https://github.com/birken92/my-portfolio-app#readme"
 }
